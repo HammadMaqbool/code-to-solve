@@ -6,7 +6,7 @@ This repo contains the different problems collected from different sources, You 
 This repository contains following folders 📂 
 | Sr. #  | Programming Language |
 | ------------- | ------------- |
-| 1  | C/C++  |
+| 1  | [C/C++](https://github.com/HammadMaqbool/code-to-solve/tree/main/Cpp)  |
 | 2  | C#.NET  |
 | 3  | Java  |
 
