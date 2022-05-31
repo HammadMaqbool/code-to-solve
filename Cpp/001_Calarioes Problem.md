@@ -1,4 +1,4 @@
-## 001 Calarioes Problem
+## 001 Calories Problem
  ----------------------------------------
 
  
